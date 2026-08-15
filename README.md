@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='700' height='100' viewBox='0 0 700 100'><defs><linearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'><stop offset='0%25' stop-color='%238B5CF6'/><stop offset='50%25' stop-color='%2360A5FA'/><stop offset='100%25' stop-color='%23F472B6'/></linearGradient></defs><text x='50%25' y='58%25' text-anchor='middle' font-family='Segoe%20UI,Arial,sans-serif' font-size='56' font-weight='800' fill='url(%23g)' letter-spacing='2'>404-Page-Found</text><text x='50%25' y='84%25' text-anchor='middle' font-family='Consolas,monospace' font-size='15' fill='%2394A3B8' letter-spacing='8'>ERROR 404: PROFILE NOT FOUND</text></svg>" alt="404-Page-Found" width="680" />
+<img src="assets/banner.svg" alt="404-Page-Found" width="680" />
 
 ### *Error 404: Profile Not Found* — just kidding, you found it! 🎉
 
@@ -23,14 +23,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=404-Page-Found&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=404-Page-Found&theme=tokyonight" alt="GitHub Activity Graph" />
 </p>
 
 <!--
-💡 Tip: The classic stats cards (github-readme-stats.vercel.app) are temporarily paused by the
-service owner. To restore the full cards when they're back online, replace the badges above with:
-https://github-readme-stats.vercel.app/api?username=404-Page-Found&show_icons=true&include_all_commits=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api/top-langs/?username=404-Page-Found&layout=compact&theme=tokyonight
+ℹ️ Note: The classic stats cards (github-readme-stats.vercel.app) and the old streak card
+(streak-stats.demolab.com) have been permanently discontinued / became unreliable, so the
+section above now uses the still-maintained activity graph service instead.
 -->
 
 ---
