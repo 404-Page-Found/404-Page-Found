@@ -23,13 +23,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=404-Page-Found&theme=tokyonight" alt="GitHub Activity Graph" />
+  <img src="https://github-act-graph.rodriaum.com/graph?username=404-Page-Found&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 <!--
 ℹ️ Note: The classic stats cards (github-readme-stats.vercel.app) and the old streak card
-(streak-stats.demolab.com) have been permanently discontinued / became unreliable, so the
-section above now uses the still-maintained activity graph service instead.
+(streak-stats.demolab.com) have been permanently discontinued / became unreliable. The original
+activity graph host (github-readme-activity-graph.vercel.app) is now dead too — its Vercel
+deployment returns 402 DEPLOYMENT_DISABLED — so the graph above points at the community fork
+that took over that endpoint (github-act-graph.rodriaum.com).
 -->
 
 ---
