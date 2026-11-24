@@ -54,14 +54,14 @@ I run the [**404-PF**](https://github.com/404-PF) organization, home to a growin
 
 📦 Live on: [Chrome Web Store](https://chromewebstore.google.com/detail/bgjillpeijfmdopfbmoinfogfhaadina) · [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/new-tab/mcbemnamenhelofgaclcanfcdjnjnhmi) · [npm: `@404-pf/commit-echo`](https://www.npmjs.com/package/@404-pf/commit-echo)
 
-Also an active collaborator on [**CherryHQ/cherry-studio**](https://github.com/CherryHQ/cherry-studio) (53,799 ⭐).
+Also an active collaborator on [**CherryHQ/cherry-studio**](https://github.com/CherryHQ/cherry-studio) (53,000+ ⭐).
 
 ## 🏆 Achievements & Fun Facts
 
 - 🏅 **GitHub Achievements:** Pair Extraordinaire ×4 · Pull Shark ×4 · YOLO · Quickdraw
 - 🎮 Built a **Games hub** for New-Tab with a pluggable framework — Snake, 2048, and Memory Match, with more on the way
-- 📬 Opened **1,654 pull requests** and **942 issues** in the past year — some feature-worthy, some *"help, why is this broken"*
-- 📊 **4,638 contributions** in the last year — my keyboard gets a workout
+- 📬 Opened **1,400+ pull requests** and **900+ issues** in the past year — some feature-worthy, some *"help, why is this broken"*
+- 📊 **5,100+ contributions** in the last year — my keyboard gets a workout
 - 🤖 I taught an AI to write my commit messages. It now writes better ones than I do.
 - 🐛 My favorite error code is 404... obviously.
 
